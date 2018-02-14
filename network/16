@@ -1,1 +1,1 @@
-aller dans le fichier /etc/resolv.conf est mettre l'adresse 46.19.122.85 intra.42.fr on ne peut pas le faire car on a pas les droits
+aller dans le fichier etc/hosts et mettre l'adresse 46.19.122.85 intra.42.fr
